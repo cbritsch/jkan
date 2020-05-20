@@ -1,0 +1,16 @@
+---
+schema: default
+title: LoD 2 Daten NRW
+organization: open.nrw
+notes: Verfügbarkeit von LoD 1 und 2 Daten des Landes NRW
+resources:
+  - name: LoD 1 und 2 Daten Zugang
+    url: 'https://open.nrw/dataset/5d9a8abc-dfd0-4dda-b8fa-165cce4d8065'
+    format: url
+category:
+  - Öffentliche Daten
+  - LoD 2 Daten
+  - LoD 1 Daten
+maintainer: chbr
+maintainer_email: c.britsch@conterra.de
+---

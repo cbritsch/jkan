@@ -16,6 +16,7 @@ resources:
 license: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
 category:
   - Education
+  - Öffentliche Daten
 maintainer: Me Myself
 maintainer_email: notyour@problem.fuckyou
 ---

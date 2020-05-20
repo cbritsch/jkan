@@ -3,4 +3,9 @@
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
 - name: Öffentliche Daten
+  logo: /img/categories/real-estate-land-records.svg
   featured: true
+- name: Bezahlte Daten
+  logo: /img/categories/budget-finance.svg
+  featured: true
+  

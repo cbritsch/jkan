@@ -8,9 +8,9 @@ resources:
     url: 'https://www.lgl-bw.de/unsere-themen/Produkte/Geodaten/3D-Gebaeudemodelle/'
   - name: Weitere Informationen
     url: 'https://www.service-bw.de/leistung/-/sbw/Geodaten+bestellen-3098-leistung-0'   
-LoD 1 Daten Kosten: gemaeß AdV-GR
-LoD 2 Daten kosten: gemaeß AdV-GR
-Zusatzinformationen: 'Für die Bereitstellung der Daten wird ein Mindestentgelt in Höhe von 50,00 € erhoben. Hinweis: alle Entgeltangaben netto zzgl. gesetzlicher Umsatzsteuer'
+loD 1 Daten Kosten: gemaeß AdV-GR
+loD 2 Daten kosten: gemaeß AdV-GR
+zusatzinformationen: 'Für die Bereitstellung der Daten wird ein Mindestentgelt in Höhe von 50,00 € erhoben. Hinweis: alle Entgeltangaben netto zzgl. gesetzlicher Umsatzsteuer'
 category:
   - Bezahlte Daten
   - LoD 1 Daten

@@ -1,0 +1,16 @@
+---
+schema: default
+title: LoD  Daten Thüringen
+organization: Geoportal Thüringen
+notes: Verfügbarkeit von LoD 1 und 2 Daten von Thüringen
+resources:
+  - name: LoD 1 und 2 Daten Zugang
+    url: 'https://www.geoportal-th.de/de-de/Downloadbereiche/Download-Offene-Geodaten-Th%C3%BCringen/Download-3D-Geb%C3%A4ude'
+    format: url
+category:
+  - Öffentliche Daten
+  - LoD 2 Daten
+  - LoD 1 Daten
+maintainer: chbr
+maintainer_email: c.britsch@conterra.de
+---

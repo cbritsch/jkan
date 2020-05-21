@@ -1,0 +1,16 @@
+---
+schema: default
+title: LoD  Daten Sachsen
+organization: Geoportal Sachsen
+notes: Verfügbarkeit von LoD 1 und 2 Daten von Sachsen
+resources:
+  - name: LoD 1 und 2 Daten Zugang
+    url: 'https://www.landesvermessung.sachsen.de/bestellung-und-gebuhren-5509.html'
+    format: url
+category:
+  - Öffentliche Daten
+  - LoD 2 Daten
+  - LoD 1 Daten
+maintainer: chbr
+maintainer_email: c.britsch@conterra.de
+---

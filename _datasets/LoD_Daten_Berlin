@@ -1,0 +1,16 @@
+---
+schema: default
+title: LoD  Daten Berlin
+organization: Bussines Location Center Berlin
+notes: Verfügbarkeit von LoD 1 und 2 Daten von Berlin
+resources:
+  - name: LoD 1 und 2 Daten Zugang
+    url: 'https://www.businesslocationcenter.de/berlin3d-downloadportal/#/export/dataSourceResult'
+    format: url
+category:
+  - Öffentliche Daten
+  - LoD 2 Daten
+  - LoD 1 Daten
+maintainer: chbr
+maintainer_email: c.britsch@conterra.de
+---

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: LoD  Daten Hamburg
-organization: Geoportal Hamburg
+organization: Oeffentliche Daten
 notes: Verfügbarkeit von LoD 1 und 2 Daten von Hamburg
 resources:
   - name: LoD 1 und 2 Daten Zugang

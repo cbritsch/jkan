@@ -1,7 +1,7 @@
 ---
 schema: default
 title: LoD Daten Baden Wuerttemberg
-organization: LGL BW
+organization: Bezahlte Daten
 notes: Verfügbarkeit von LoD 1 und 2 Daten des Landes Baden Wuerttemberg
 resources:
   - name: LoD 1 und 2 Daten Zugang

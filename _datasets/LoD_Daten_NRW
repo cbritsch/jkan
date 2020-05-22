@@ -1,7 +1,7 @@
 ---
 schema: default
 title: LoD  Daten NRW
-organization: open.nrw
+organization: Oeffentliche Daten
 notes: Verfügbarkeit von LoD 1 und 2 Daten des Landes NRW
 resources:
   - name: LoD 1 und 2 Daten Zugang
